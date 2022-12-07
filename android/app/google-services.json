@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17917783956",
+    "project_id": "flutter-firebase-f8018",
+    "storage_bucket": "flutter-firebase-f8018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17917783956:android:4ff5e85659d9774d686981",
+        "android_client_info": {
+          "package_name": "com.example.smart_irrigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17917783956-45nbv1hsccf7t60hosr77raout6e518h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_irrigation",
+            "certificate_hash": "5b98d492478f25317021d1c485b29ef25f8b943a"
+          }
+        },
+        {
+          "client_id": "17917783956-spbg3lg0a6rol33910ert0f5bdc4fss2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgVgC9zsUBPnEjQ7blgfxqy_Dtfd1Nf5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17917783956-spbg3lg0a6rol33910ert0f5bdc4fss2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
